@@ -1,5 +1,5 @@
 # pos-rs
-PelikanOS Rust
+PelikanOS Realtime System
 
-Simple Task Router for Workers
+Simple Task Router for Workers (STR4W)
 
